@@ -23,13 +23,10 @@ This project involves data analysis and visualization using Excel. The dataset i
 ## How to Use
 1. Open **DT Final Assignment.xlsx** in Excel.
 2. Review "Sheet2" for extracted data and applied formulas.
-3. If using Power BI, import the file and create relevant visualizations.
 
 ## Future Improvements
 - Automate the formula extraction and application process using VBA or Python.
 - Enhance conditional formatting for better data insights.
-- Develop a Power BI dashboard to visualize key trends.
-
 ## Contact
 For any queries or suggestions, feel free to reach out!
 
