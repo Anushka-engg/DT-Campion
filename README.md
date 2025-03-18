@@ -5,7 +5,6 @@ This project involves data analysis and visualization using Excel. The dataset i
 
 ## Files Included
 - **DT Final Assignment.xlsx**: The main dataset containing different sheets with structured data.
-- **Updated_DT_Data_Champion.xlsx** (if applicable): The processed version of the dataset after modifications.
 
 ## Sheets & Their Purpose
 1. **DataSet2 Advanced Screening**:
